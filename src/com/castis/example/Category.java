@@ -7,6 +7,6 @@ public class Category {
 	
 	public Category() {
 		// TODO Auto-generated constructor stub
-		system.out.println("test");
+		system.out.println("tesx");
 	}
 }
